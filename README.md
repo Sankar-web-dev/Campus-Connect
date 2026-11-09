@@ -1,4 +1,4 @@
-# DoodleBlue-2
+# Campus Connect
 
 A full-stack campus/community management application with a Next.js frontend (`Client/`) and an Express + MongoDB backend (`Server/`).
 
@@ -6,7 +6,7 @@ A full-stack campus/community management application with a Next.js frontend (`C
 
 ## What this project does
 
-DoodleBlue-2 provides role-aware workflows for campus operations, including:
+Campus Connect provides role-aware workflows for campus operations, including:
 
 - Authentication and session-based access
 - Role and user management
